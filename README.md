@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Cybersecurity Learner</h3>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/16hS8MTQnCJbHERFHt79MHWkAjank4b7k/view?usp=sharing" alt="Aditya Parmar Banner">
+  <img src="https://drive.google.com/uc?export=view&id=16hS8MTQnCJbHERFHt79MHWkAjank4b7k" alt="Aditya Parmar Banner">
 </p>
 
 ---
