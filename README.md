@@ -51,6 +51,7 @@
 
 🚀 **BizVersion** - [Live Demo](https://adityaprmr.github.io/BizVersion/) | [GitHub Repo](https://github.com/AdityaPrmr/BizVision)  
 🛂 **BookNexus** *(ASP.NET Core Project)(In Progress)*    
+💡 **Emotion Recognition Using Image, Audio, and Text** - [GitHub Repo](https://github.com/AdityaPrmr/Emotion-Recognition-)  
 
 ---
 
