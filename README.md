@@ -8,11 +8,11 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 Currently working on **[BookNexus]**  
+- 🔝 Currently working on **[BookNexus]**  
 - 🌱 Exploring **Machine Learning**  
 - 💡 Passionate about **Full Stack Development**, **AI**, and **Problem Solving**  
 - 🎯 Goal: To build innovative tech solutions and **scale my own business empire**  
-- 📫 Contact me at: **[Email](mailto:parmar2100parmar@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/adityaparmar-)**  
+- 👯 Contact me at: **[Email](mailto:parmar2100parmar@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/adityaparmar-)**  
 
 ---
 
@@ -41,7 +41,7 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaPrmr&show_icons=true&theme=dark" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaPrmr&show_icons=true&include_all_commits=true&theme=dark" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaPrmr&theme=dark" width="48%">
 </p>
 
@@ -49,12 +49,12 @@
 
 ### 🌟 Featured Projects  
 
-🚀 **BizVersion** - [Live Demo](https://adityaprmr.github.io/BizVersion/) | [GitHub Repo]([https://github.com/AdityaPrmr/BizVersion](https://github.com/AdityaPrmr/BizVision))  
-🛒 **BookNexus** *(ASP.NET Core Project)(In Progress)*    
+🚀 **BizVersion** - [Live Demo](https://adityaprmr.github.io/BizVersion/) | [GitHub Repo](https://github.com/AdityaPrmr/BizVision)  
+🛂 **BookNexus** *(ASP.NET Core Project)(In Progress)*    
 
 ---
 
-### 🔗 Connect with Me  
+### 🗮️ Connect with Me  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adityaparmar-" target="_blank">
@@ -70,4 +70,4 @@
 
 ---
 
-⭐ **Feel free to explore my repositories and contribute!** 🚀  
+🌟 **Feel free to explore my repositories and contribute!** 🚀
