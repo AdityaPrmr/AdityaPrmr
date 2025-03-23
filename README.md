@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Cybersecurity Learner</h3>
 
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Aditya Parmar Banner">
+  <img src="https://drive.google.com/file/d/16hS8MTQnCJbHERFHt79MHWkAjank4b7k/view?usp=sharing" alt="Aditya Parmar Banner">
 </p>
 
 ---
@@ -49,7 +49,7 @@
 
 ### 🌟 Featured Projects  
 
-🚀 **BizVersion** - [Live Demo](https://adityaprmr.github.io/BizVersion-react/) | [GitHub Repo](https://github.com/AdityaPrmr/BizVersion)  
+🚀 **BizVersion** - [Live Demo](https://adityaprmr.github.io/BizVersion/) | [GitHub Repo]([https://github.com/AdityaPrmr/BizVersion](https://github.com/AdityaPrmr/BizVision))  
 🛒 **BookNexus** *(ASP.NET Core Project)(In Progress)*    
 
 ---
