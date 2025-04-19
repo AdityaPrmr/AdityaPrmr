@@ -12,7 +12,8 @@
 - 🌱 Exploring **Machine Learning & Cybersecurity**  
 - 💡 Passionate about **Full Stack Development**, **AI**, and **Problem Solving**  
 - 🎯 Goal: To build innovative tech solutions and **scale my own business empire**  
-- 👯 Contact me at: **[Email](mailto:parmar2100parmar@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/adityaparmar-)**  
+- 👯 Contact me at: **[Email](mailto:parmar2100parmar@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/adityaparmar-)**
+- 🌐 Check out my portfolio: **[My Portfolio](https://portfolio-omzb.onrender.com/)** 
 
 ---
 
