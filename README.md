@@ -65,7 +65,7 @@
 ## 🌟 Featured Projects  
 
 - 🚀 **[BizVision](https://adityaprmr.github.io/BizVision/)** - *(MERN Stack Business Platform)*  
-- 🛂 **BookNexus** *(ASP.NET Core Project - In Progress)*  
+- 🛂 **[BookNexus](https://booknexus.onrender.com/)** 
 - 💡 **[Emotion Recognition Using Image, Audio, and Text](https://github.com/AdityaPrmr/Emotion-Recognition)*  
 - 💬 **[YouTube Comment System Analysis](https://github.com/AdityaPrmr/Youtube-Comment-Sentiment-Analysis)**  
 
