@@ -8,10 +8,10 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔝 Currently working on **BookNexus** *(ASP.NET Core Project)*  
+- 🔝 Currently working on **UniVerse** *(MERN Project)*
 - 🌱 Exploring **Machine Learning & Cybersecurity**  
 - 💡 Passionate about **Full Stack Development**, **AI**, and **Problem Solving**  
-- 🎯 Goal: To build innovative tech solutions and **scale my own business empire**  
+- 🎯 Goal: To build innovative tech solutions.
 - 👯 Contact me at: **[Email](mailto:parmar2100parmar@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/adityaparmar-)**
 - 🌐 Check out my portfolio: **[My Portfolio](https://portfolio-omzb.onrender.com/)** 
 
@@ -67,7 +67,8 @@
 - 🚀 **[BizVision](https://adityaprmr.github.io/BizVision/)** - *(MERN Stack Business Platform)*  
 - 🛂 **[BookNexus](https://booknexus.onrender.com/)** 
 - 💡 **[Emotion Recognition Using Image, Audio, and Text](https://github.com/AdityaPrmr/Emotion-Recognition)**
-- 💬 **[YouTube Comment System Analysis](https://github.com/AdityaPrmr/Youtube-Comment-Sentiment-Analysis)**  
+- 💬 **[YouTube Comment System Analysis](https://github.com/AdityaPrmr/Youtube-Comment-Sentiment-Analysis)**
+- 🛂 **[NewsHive](https://adityaprmr.github.io/NewsHive/)** 
 
 ---
 
