@@ -68,7 +68,8 @@
 - 🛂 **[BookNexus](https://booknexus.onrender.com/)** 
 - 💡 **[Emotion Recognition Using Image, Audio, and Text](https://github.com/AdityaPrmr/Emotion-Recognition)**
 - 💬 **[YouTube Comment System Analysis](https://github.com/AdityaPrmr/Youtube-Comment-Sentiment-Analysis)**
-- 🛂 **[NewsHive](https://adityaprmr.github.io/NewsHive/)** 
+- 🛂 **[NewsHive](https://adityaprmr.github.io/NewsHive/)**
+- https://drive.google.com/drive/folders/1FavF7tlbePJSgbsWkYtpLfluHmnY1YXX?usp=sharing
 
 ---
 
